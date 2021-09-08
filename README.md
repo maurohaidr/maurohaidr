@@ -1,6 +1,6 @@
 Hello! My name is Mauro, and this is my profile!
 
-I´m currently working on the final evaluation proyect for Henrys Full Stack Development bootcamp, with a group of very talented people. Also filling the role of Teaching Assistant for new starters.
+I´m a Full-Stack web developer with a solid base on JavaScript, motivation and capability to learn new content constantly.
 
 Soft skills:
 •Proactive •Confident •Social •Curious •Empathy •Responsibility •Enthusiasm for learning •Teamwork
